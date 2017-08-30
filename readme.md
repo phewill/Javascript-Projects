@@ -3,11 +3,10 @@
 #### Este repositório contém alguns pequenos projetos/estudos de Javascript.
 
 - Estudo-1
-    - [Calculadora](https://github.com/phewill/Front-end-projects/tree/master/Jm-Viagens)  
+    - [Calculadora-responsiva](https://github.com/phewill/Javascript-Projects/tree/master/Calculadora)  
 
 - Estudo-2
-    - [Calculadora](https://github.com/phewill/Front-end-projects/tree/master/Jm-Viagens)  
-
+    - Em construção
 
 **Autor: William Garcia**  
 **Email: william.rosa.garcia@gmail.com**
