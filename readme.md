@@ -6,8 +6,9 @@
     - [Calculadora-responsiva](https://github.com/phewill/Javascript-Projects/tree/master/Calculadora)  
 
 - Estudo-2
-    - Em construção
+    - [Game-Estourando-Baloes](https://github.com/phewill/Javascript-Projects/tree/master/Game-Estourando-Baloes)  
 
+    
 **Autor: William Garcia**  
 **Email: william.rosa.garcia@gmail.com**
  
